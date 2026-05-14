@@ -1,0 +1,9 @@
+.vs/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.vcxproj.user
+x64/
+Debug/
+Release/

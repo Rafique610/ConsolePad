@@ -121,6 +121,18 @@ ConsolePad/
 
 ---
 
+## Screenshots
+
+### Main Menu
+![Menu](screenshots/Menu.png)
+
+### Search Panel
+![Search](screenshots/Search.png)
+
+### Suggestion System
+![Suggestion](screenshots/Suggestion.png)
+
+
 ## Building
 
 Requires: **MSVC** (Visual Studio 2019 or later) on Windows.
